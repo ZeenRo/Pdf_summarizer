@@ -1,7 +1,0 @@
-langchain==0.3.26
-langchain_community==0.3.26
-Requests==2.32.4
-streamlit==1.46.1
-streamlit_pdf_viewer==0.0.26
-torch==2.7.1
-transformers==4.53.0
